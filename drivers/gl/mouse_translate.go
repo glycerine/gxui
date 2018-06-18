@@ -7,7 +7,7 @@ package gl
 import (
 	"fmt"
 
-	"github.com/nelsam/gxui"
+	"github.com/glycerine/gxui"
 
 	"github.com/goxjs/glfw"
 )

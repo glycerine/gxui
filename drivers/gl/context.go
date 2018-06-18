@@ -5,7 +5,7 @@
 package gl
 
 import (
-	"github.com/nelsam/gxui/math"
+	"github.com/glycerine/gxui/math"
 
 	"github.com/goxjs/gl"
 )

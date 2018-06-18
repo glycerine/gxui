@@ -5,10 +5,10 @@
 package mixins
 
 import (
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/math"
-	"github.com/nelsam/gxui/mixins/outer"
-	"github.com/nelsam/gxui/mixins/parts"
+	"github.com/glycerine/gxui"
+	"github.com/glycerine/gxui/math"
+	"github.com/glycerine/gxui/mixins/outer"
+	"github.com/glycerine/gxui/mixins/parts"
 )
 
 type WindowOuter interface {

@@ -5,8 +5,8 @@
 package basic
 
 import (
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/mixins"
+	"github.com/glycerine/gxui"
+	"github.com/glycerine/gxui/mixins"
 )
 
 type ScrollBar struct {

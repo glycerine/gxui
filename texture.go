@@ -7,7 +7,7 @@ package gxui
 import (
 	"image"
 
-	"github.com/nelsam/gxui/math"
+	"github.com/glycerine/gxui/math"
 )
 
 type Texture interface {

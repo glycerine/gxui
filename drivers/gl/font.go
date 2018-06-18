@@ -9,8 +9,8 @@ import (
 	"unicode"
 
 	"github.com/golang/freetype/truetype"
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/math"
+	"github.com/glycerine/gxui"
+	"github.com/glycerine/gxui/math"
 	fnt "golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
 )

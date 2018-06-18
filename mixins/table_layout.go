@@ -1,9 +1,9 @@
 package mixins
 
 import (
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/math"
-	"github.com/nelsam/gxui/mixins/base"
+	"github.com/glycerine/gxui"
+	"github.com/glycerine/gxui/math"
+	"github.com/glycerine/gxui/mixins/base"
 )
 
 type Cell struct {

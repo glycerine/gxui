@@ -14,8 +14,8 @@ import (
 
 	"github.com/goxjs/gl"
 	"github.com/goxjs/glfw"
-	"github.com/nelsam/gxui"
-	"github.com/nelsam/gxui/math"
+	"github.com/glycerine/gxui"
+	"github.com/glycerine/gxui/math"
 )
 
 // Maximum time allowed for application to process events on termination.
